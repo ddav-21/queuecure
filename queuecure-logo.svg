@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="QueueCure logo">
+  <defs>
+    <linearGradient id="qcGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0077b6"/>
+      <stop offset="100%" stop-color="#7fffd4"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#qcGrad)"/>
+  <path d="M24 18c-7.2 0-13 5.8-13 13s5.8 13 13 13c2.3 0 4.5-.6 6.4-1.7l3.9 3.9c.8.8 2 .8 2.8 0s.8-2 0-2.8l-3.4-3.4c2.1-2.3 3.3-5.4 3.3-9 0-7.2-5.8-13-13-13zm0 4c5 0 9 4 9 9s-4 9-9 9-9-4-9-9 4-9 9-9z" fill="#ffffff"/>
+  <path d="M44 21h8v4h-4v4h-4v-8z" fill="#ffffff"/>
+</svg>
